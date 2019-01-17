@@ -1,0 +1,1 @@
+Templates to create Jira tickets representing common types of tasks, such as User Stories and Bugs.

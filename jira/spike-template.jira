@@ -1,0 +1,34 @@
+{quote}
+_The purpose of a Spike is to fill knowledge gaps that will enable plan and create Stories_
+
+_A Spike can be driven by Questions and Criteria, a Timebox, or both._
+
+_A Spike should therefore be considered DONE when all questions have answers and all criteria have an evaluation... OR when time expires (tried to answer the as many questions as possible in the given timebox)._
+
+_Keep spike "small", few questions, 1 technology to evaluate. Timebox it._
+{quote}
+
+h4. Goals
+Explain your goals or your needs
+
+h4. Challenges and Questions
+Explain your challenges - Ask the questions you need to answer 
+
+h4. Evaluation Criteria
+Define the criteria that will help you evaluate a given approach or solution.
+
+Very important when comparing different technologies.
+
+Order by importance, so that if the Spike is timeboxed and can't evaluate all you still get the most critical information 
+||#||Criterion||
+|1| |
+|2| |
+|3 | |
+
+h4. Timebox
+Specify a timebox constraint if you want
+
+~ N days
+
+h4. Conclusions and recommendations
+Fill here at the end, or attach / link any produced documentation

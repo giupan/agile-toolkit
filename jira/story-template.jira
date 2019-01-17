@@ -1,0 +1,25 @@
+h4. Story 
+{code}
+AS A        <WHO: customer, "persona">
+I WANT      <WHAT: feature, tool, knowledge>
+IN ORDER TO <WHY: business value, need, problems to solve, next activities to be enabled>
+{code}
+
+h5. Context
+Just 1-2 sentences to contextualize this story, i.e.:
+
+- how it relates to any work that has been done before or will be done after this (mention stories or epics)
+- why we need this story, how *it contributes to a bigger goal* (or what happens if we don't do this)
+
+h5. Out of scope
+
+Feel free to keep this section or not: sometimes it's helpful to clarify the scope by saying what is NOT required
+(i.e. some part of work already planned in another story)
+
+h4. Acceptance Criteria
+Be very specific on what exactly you will you do to test / verify and what result you expect
+
+||#||SCENARIO NAME||Given||When||Then||
+|1|X|x|x|x|
+|2|X|x|x|x|
+|3|X|x|x|x|
